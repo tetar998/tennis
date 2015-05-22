@@ -17,7 +17,7 @@ public class tennisTest  {
 	
 	@Test
 	public void nouveau_Jeu_score_nul(){
-		assertEquals("Egalite : 0-0",  Jeu.getScore());
+		assertEquals("Egalite : 0-15",  Jeu.getScore());
 	}
 	
 	@Test
